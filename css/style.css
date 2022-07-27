@@ -1,0 +1,44 @@
+.bg-custm{
+  background-color:  #FFF9F4;
+}
+.font-lg{
+  font-weight: 700;
+  font-size: 70px;
+}
+.font-md{
+  font-size: 35px;
+  font-weight: 700;
+}
+.font-sm{
+  font-weight: 500;
+  font-size: 16px;
+}
+.text-orang{
+  color: #FA804C;
+}
+.text-lightdark{
+  color: #363958;
+}
+
+/* @media screen and (max-width:576px) {
+  #banner{
+    flex-direction: column-reverse;
+  } 
+  .font-lg{
+    font-weight: 700;
+    font-size: 50px;
+  }
+  .half-width{
+    width: 100%;
+  }
+} */
+
+/* @media screen and (min-width:577px) and (max-width:768px){
+  .font-lg{
+    font-weight: 600;
+    font-size: 40px;
+  }
+  .half-width{
+    width: 50%;
+  }
+} */
